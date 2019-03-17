@@ -1,0 +1,41 @@
+.header {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.headerspan {
+    color: red;
+}
+
+.search-bar {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+.search-bar input {
+    width: 75%
+}
+
+.video-item img {
+    max-width: 64px;
+}
+
+.video-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid rgb(90, 87, 87);
+    border-radius: 4px;
+}
+
+.titleheader {
+    font-weight: bold;
+}
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
